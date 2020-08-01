@@ -17,6 +17,7 @@ https://git-scm.com/download
 
 - [] Você vai pegar um projeto já iniciado, para trabalhar
 - [] Você precisa resolver os conflito do mesmo
+- [] Antes de enviar a resolução, precisamos atualizar o projeto local
 
 
 - 'git init'    -> inicia a linha do git[tempo]
