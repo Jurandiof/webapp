@@ -20,13 +20,15 @@ https://git-scm.com/download
 - [] Antes de enviar a resolução, precisamos atualizar o projeto local
 
 
-- 'git init'    -> inicia a linha do git[tempo]
-- 'git add'     -> adciona ou atualiza mudanças para irem para a linha do tempo
-- 'git commit'  -> adciona um ponto na linha do tempo
-- 'git log'     -> visualiza um ponto na linha do tempo / commit
-- 'git status'  -> informa o estado das alterações do nosso projeto
-- 'git show'    -> apresenta determinado ponto na história
-- 'git branch'    -> gerencia novas linhas do tempo
-- 'git checkout'  -> manipula as linhas do tempo pulando para elas
-- 'git merge'     -> faz união das linhas do tempo
-- 'git push'      -> envia as alterações locais para o repositorio remoto do GIT
+- 'git init'        -> inicia a linha do git[tempo]
+- 'git add'         -> adciona ou atualiza mudanças para irem para a linha do tempo
+- 'git commit'      -> adciona um ponto na linha do tempo
+- 'git log'         -> visualiza um ponto na linha do tempo / commit
+- 'git status'      -> informa o estado das alterações do nosso projeto
+- 'git show'        -> apresenta determinado ponto na história
+- 'git branch'      -> gerencia novas linhas do tempo
+- 'git checkout'    -> manipula as linhas do tempo pulando para elas
+- 'git merge'       -> faz união das linhas do tempo
+- 'git push'        -> envia as alterações locais para o repositorio remoto do GIT
+- 'git clone'       -> clonar um projeto do repositorio para sua maquina
+- 'git pull'        -> puxa do repositorio remoto para atualizar seu projeto
